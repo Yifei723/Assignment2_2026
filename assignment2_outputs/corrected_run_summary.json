@@ -1,0 +1,22 @@
+{
+  "classification_selected_params": {
+    "criterion": "entropy",
+    "max_depth": 4,
+    "min_samples_leaf": 20
+  },
+  "restricted_selected_params": {
+    "criterion": "gini",
+    "max_depth": 5,
+    "min_samples_leaf": 35
+  },
+  "best_cluster_k_by_silhouette": 2,
+  "association_rules_direct_allowed": 61579,
+  "association_rules_restricted": 53364,
+  "figures": {
+    "figure1": "D:\\anu\\8410\\Assignment2_2026\\assignment2_outputs\\figures\\figure1_feature_importance.png",
+    "figure2": "D:\\anu\\8410\\Assignment2_2026\\assignment2_outputs\\figures\\figure2_restricted_rule_lift.png",
+    "figure3": "D:\\anu\\8410\\Assignment2_2026\\assignment2_outputs\\figures\\figure3_cluster_profiles.png",
+    "figure4": "D:\\anu\\8410\\Assignment2_2026\\assignment2_outputs\\figures\\figure4_greens_by_cluster.png"
+  },
+  "updated_report_with_figures": "D:\\anu\\8410\\Assignment2_2026\\Indigenous_Voters_Data_Mining_Report_updated_with_figures.docx"
+}

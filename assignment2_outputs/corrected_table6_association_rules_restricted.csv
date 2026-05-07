@@ -1,0 +1,21 @@
+antecedent,antecedent_size,antecedent_count,n_supporting_rule,confidence,lift,support_pct,confidence_pct
+AGE_sdc=21-30 AND Q25_3=very low 0-2 AND Q30_3=Yes,3,21,15,0.7142857142857143,5.55,2.1,71.4
+AGE_sdc=21-30 AND Q30_3=Yes AND Q37_5=Labor,3,21,14,0.6666666666666666,5.18,1.9,66.7
+AGE_sdc=21-30 AND Q30_3=Yes AND Q37_3=Labor,3,20,13,0.65,5.05,1.8,65.0
+AGE_sdc=21-30 AND Q25_3=very low 0-2 AND Q37_6=Labor,3,21,13,0.6190476190476191,4.81,1.8,61.9
+Q25_2=warm 6-7 AND Q30_3=Yes AND Q46=Very serious,3,21,13,0.6190476190476191,4.81,1.8,61.9
+AGE_sdc=21-30 AND Q29=Mostly run for the big interests AND Q46=Very serious,3,23,14,0.6086956521739131,4.73,1.9,60.9
+AGE_sdc=21-30 AND Q30_3=Yes AND Q43=Strongly favour,3,27,16,0.5925925925925926,4.61,2.2,59.3
+AGE_sdc=21-30 AND Q25_3=very low 0-2 AND Q27=Not very satisfied,3,22,13,0.5909090909090909,4.59,1.8,59.1
+Q29=Mostly run for the big interests AND Q30_5=Yes AND Q45=Increased a little,3,22,13,0.5909090909090909,4.59,1.8,59.1
+Q25_2=warm 6-7 AND Q43=Strongly favour AND Q46=Very serious,3,24,14,0.5833333333333334,4.53,1.9,58.3
+AGE_sdc=21-30 AND Q29=Mostly run for the big interests AND Q30_6=Yes,3,26,15,0.5769230769230769,4.49,2.1,57.7
+AGE_sdc=21-30 AND Q25_3=very low 0-2 AND Q43=Strongly favour,3,33,19,0.5757575757575758,4.48,2.6,57.6
+AGE_sdc=21-30 AND Q25_3=very low 0-2 AND Q37_2=Labor,3,21,12,0.5714285714285714,4.44,1.7,57.1
+AGE_sdc=21-30 AND Q27=Not very satisfied AND Q37_3=Labor,3,21,12,0.5714285714285714,4.44,1.7,57.1
+Gender_sdc=Female AND Q11=In the first few weeks of the campaign AND Q38_6=Strongly agree,3,21,12,0.5714285714285714,4.44,1.7,57.1
+Q12=The policy issues AND Q37_10=Dont know AND Q41=Strongly favour spending more on social services,3,21,12,0.5714285714285714,4.44,1.7,57.1
+Q37_2=No difference AND Q37_3=No difference AND Q45=Remain about the same as it is,3,21,12,0.5714285714285714,4.44,1.7,57.1
+AGE_sdc=21-30 AND Q12=The policy issues AND Q37_6=Labor,3,23,13,0.5652173913043478,4.39,1.8,56.5
+AGE_sdc=21-30 AND Q25_1=very low 0-2 AND Q30_3=Yes,3,23,13,0.5652173913043478,4.39,1.8,56.5
+Q10=Cared a good deal AND Q29=Mostly run for the big interests AND Q45=Increased a little,3,23,13,0.5652173913043478,4.39,1.8,56.5

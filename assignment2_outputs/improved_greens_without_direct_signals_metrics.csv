@@ -1,0 +1,11 @@
+Measure,Five-fold cross-validated result
+Valid cases,723
+Greens class rate,12.9%
+Naive all-non-Greens accuracy,87.1%
+ROC-AUC,0.721 +/- 0.065
+Average precision,0.287 +/- 0.082
+Accuracy,0.671 +/- 0.074
+Balanced accuracy,0.668 +/- 0.054
+Precision for Greens,0.239 +/- 0.056
+Recall for Greens,0.665 +/- 0.101
+F1 for Greens,0.348 +/- 0.063

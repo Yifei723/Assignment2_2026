@@ -1,0 +1,9 @@
+Data characteristic,Value
+Rows in supplied pre-processed file,802
+Attributes in supplied pre-processed file,133
+Attributes after recomputing target for analysis,134
+Valid House vote records for supervised mining,723
+Missing House vote records excluded from supervised mining,79
+Greens first preference after target correction,93 (12.9% of valid Q15)
+Non-Greens first preference after target correction,630 (87.1% of valid Q15)
+Original Q15_pp inconsistencies with metadata definition,1

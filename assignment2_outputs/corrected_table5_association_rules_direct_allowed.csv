@@ -1,0 +1,21 @@
+antecedent,antecedent_size,antecedent_count,n_supporting_rule,confidence,lift,support_pct,confidence_pct
+Q25_1=very low 0-2 AND Q38_3=Strongly agree AND Q8=Greens,3,23,22,0.9565217391304348,7.44,3.0,95.7
+Q37_9=No difference AND Q43=Strongly favour AND Q8=Greens,3,22,21,0.9545454545454546,7.42,2.9,95.5
+Q12=The policy issues AND Q20=Greens AND Q8=Greens,3,20,19,0.95,7.39,2.6,95.0
+Q20=Greens AND Q29=Mostly run for the big interests AND Q43=Strongly favour,3,20,19,0.95,7.39,2.6,95.0
+Q21=Yes AND Q37_9=No difference AND Q8=Greens,3,20,19,0.95,7.39,2.6,95.0
+Q37_9=No difference AND Q8=Greens,2,26,24,0.9230769230769231,7.18,3.3,92.3
+Q29=Mostly run for the big interests AND Q30_2=No AND Q8=Greens,3,26,24,0.9230769230769231,7.18,3.3,92.3
+Q12=The policy issues AND Q38_3=Strongly agree AND Q8=Greens,3,25,23,0.92,7.15,3.2,92.0
+Q20=Greens AND Q21=Yes AND Q8=Greens,3,25,23,0.92,7.15,3.2,92.0
+Q20=Greens AND Q43=Strongly favour AND Q8=Greens,3,25,23,0.92,7.15,3.2,92.0
+Q25_4=very warm 8-10 AND Q38_3=Strongly agree AND Q8=Greens,3,25,23,0.92,7.15,3.2,92.0
+Q12=The policy issues AND Q29=Mostly run for the big interests AND Q8=Greens,3,24,22,0.9166666666666666,7.13,3.0,91.7
+Q25_4=very warm 8-10 AND Q27=Not very satisfied AND Q8=Greens,3,24,22,0.9166666666666666,7.13,3.0,91.7
+Q30_2=No AND Q43=Strongly favour AND Q8=Greens,3,35,32,0.9142857142857143,7.11,4.4,91.4
+Q25_3=very low 0-2 AND Q38_3=Strongly agree AND Q8=Greens,3,23,21,0.9130434782608695,7.1,2.9,91.3
+Q12=The policy issues AND Q43=Strongly favour AND Q8=Greens,3,33,30,0.9090909090909091,7.07,4.1,90.9
+Gender_sdc=Female AND Q37_9=No difference AND Q8=Greens,3,22,20,0.9090909090909091,7.07,2.8,90.9
+Q29=Mostly run for the big interests AND Q30_1=No AND Q8=Greens,3,22,20,0.9090909090909091,7.07,2.8,90.9
+Q37_3=No difference AND Q8=Greens,2,21,19,0.9047619047619048,7.03,2.6,90.5
+Q37_8=No difference AND Q8=Greens,2,21,19,0.9047619047619048,7.03,2.6,90.5

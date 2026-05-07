@@ -1,0 +1,19 @@
+|--- categorical__Q8_4 <= 0.50
+|   |--- categorical__Q20_4 <= 0.50
+|   |   |--- categorical__Q25_2_10 <= 0.50
+|   |   |   |--- categorical__Q6_4_1 <= 0.50
+|   |   |   |   |--- class: 0
+|   |   |   |--- categorical__Q6_4_1 >  0.50
+|   |   |   |   |--- class: 1
+|   |   |--- categorical__Q25_2_10 >  0.50
+|   |   |   |--- class: 0
+|   |--- categorical__Q20_4 >  0.50
+|   |   |--- class: 1
+|--- categorical__Q8_4 >  0.50
+|   |--- categorical__Q37_9_3 <= 0.50
+|   |   |--- categorical__Q38_6_1 <= 0.50
+|   |   |   |--- class: 1
+|   |   |--- categorical__Q38_6_1 >  0.50
+|   |   |   |--- class: 1
+|   |--- categorical__Q37_9_3 >  0.50
+|   |   |--- class: 1
